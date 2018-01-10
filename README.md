@@ -67,7 +67,7 @@ tags/13.3.8 refers to commit 38deg9f2
 
 In the above example, even if new commits are added to master, 13.3.8 will always point to 38deg9f2.
 
-This document will help you learn to manage git repository
+This document will help you learn to manage a git repository.
 
 ## Learn more
  Git is a powerful tool and there will be exceptions to almost every line of this document. If you want more in-depth knowledge, [introduction to git (youtube, 1h22m11s)](https://www.youtube.com/watch?v=ZDR433b0HJY) is still one of the most useful, detailed guides to git operations.
